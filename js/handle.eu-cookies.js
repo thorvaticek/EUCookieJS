@@ -32,7 +32,7 @@ function EUCookies(){
 }
 
 EUCookies.prototype.Install  = function(){
-		self = this;
+		var self = this;
 		cookie = $.cookie(this.COOKIE_NAME);
 		
 		if (cookie == undefined || cookie != "true"){			
