@@ -15,7 +15,7 @@ First include JS and CSS files in header, bottom of the body or in the Bundle co
     
 Configure in handle.eu-cookies.js file (in js folder)
   - EUCookies_cookies_eu_Path - Path to cookies_eu.js file (automaticaly loaded)
-  - EUCookiesHtmlPath - Path to folder containig .html filed (EUCookies.script.html, EUCookies.scriptnolink.html)
+  - EUCookiesHtmlPath - Path to folder containig .html files (EUCookies.script.html, EUCookies.scriptnolink.html)
 
 To see it in action check example.html
 
