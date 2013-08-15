@@ -9,7 +9,7 @@ function EUCookies(){
 	//Change language here
 	this.lang = "en";
 
-	//Change link here
+	//Change link here or leave undefined
 	this.link = undefined;
 	
 	// Configure path to cookies_eu.js file
